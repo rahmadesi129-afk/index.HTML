@@ -1,2 +1,1 @@
-# Cv-sederhana
-latihan html
+
